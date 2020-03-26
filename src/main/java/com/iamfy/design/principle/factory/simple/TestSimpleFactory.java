@@ -1,4 +1,4 @@
-package com.iamfy.design.principle.factory.simplefactory;
+package com.iamfy.design.principle.factory.simple;
 
 public class TestSimpleFactory {
     public static void main(String[] args) {
@@ -8,7 +8,7 @@ public class TestSimpleFactory {
 //            course.study();
 //        }
         // 通过类名称
-//        ICourse course = new CourseFactory().addICourse("com.iamfy.design.principle.factory.simplefactory.ChineseCourse1");
+//        ICourse course = new CourseFactory().addICourse("com.iamfy.design.principle.factory.simple.ChineseCourse1");
 //        if(null != course) {
 //            course.study();
 //        }

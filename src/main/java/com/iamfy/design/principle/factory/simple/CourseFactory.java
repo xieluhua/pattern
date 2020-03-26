@@ -1,4 +1,4 @@
-package com.iamfy.design.principle.factory.simplefactory;
+package com.iamfy.design.principle.factory.simple;
 
 /**
  * 课程简单工厂
